@@ -18,6 +18,7 @@
 
 #### 2. MARCO TEORICO
 
+![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/181384295-8dc90dda-700f-42a2-a005-ee1c2c9dd526.png)
 
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 
