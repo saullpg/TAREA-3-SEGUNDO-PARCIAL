@@ -259,7 +259,20 @@ es el valor del voltaje?
 ![54](https://user-images.githubusercontent.com/105374903/181152601-0a031de4-ecf0-48e6-a624-865ce550b46c.jpg)
 
 
+#### 4. VIDEO
 
+
+
+#### 5. CONCLUSIONES
+
+- Existen diferentes maneras de resolver un circuito eléctrico sin embargo debemos reconoer cual de los métodos aprendidos es el apropiado para obtener la solución del circuito.
+- Los polos magnéticos desiguales se atraen entre sí y los polos iguales se repelen.
+- Los materiales que pueden ser magnetizados se llaman ferromagnéticos.
+- Mientras más rápido es el movimiento relativo entre un conductor y un campo magnético, más grande
+es el voltaje inducido.
+
+#### 6. BIBLIOGRAFIA
+Floyd, T. L. (2007). Principios de Circuitos Eléctricos (8va Edición ed.). (L. Cruz Castillo, Ed.) México: Cámara Nacional de la Industria Editorial Mexicana.
 
 
 
