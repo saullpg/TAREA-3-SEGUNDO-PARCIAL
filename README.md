@@ -3,19 +3,18 @@
 #### 1. OBJETIVO
 ##### 1.1. OBJETIVO GENERAL
 
--  Aplicar los métodos correspondientes para la solución de circuitos.
--  Conocer las características y aplicaciones del magentismo y electromagnetismo.
+- Conocer las características y aplicaciones de la corriente y voltaje alternos.
+- Identificar las caracterísiticas de un capacitor dentro de circuitos electricos.
 
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
-- Aplicar el método de corriente en ramas.
-- Aplicar el método de corriente en trayectorias cerradas.
-- Aplicar el método de voltaje en los nodos. 
-- Identificar los principios del campo magnético.
-- Identificar los principios del electromagnetismo.
-- Analizar la histérisis magnética.
-- Analizar el principio de inducción electromagnética y sus aplicaciones.
-
+- Identificar una forma de onda sinusoidal y medir sus características.
+- Determinar voltajes totales que tienen tanto componentes de CA como de CD.
+- Describir las relaciones angulares de una onda seno.
+- Utilizar un osciloscopio para medir formas de onda.
+- Analizar capacitores en serie.
+- Analizar capacitores en paralelo.
+- Analizar circuitos de CA capacitivos.
 
 #### 2. MARCO TEORICO
 
@@ -265,11 +264,14 @@ es el valor del voltaje?
 
 #### 5. CONCLUSIONES
 
-- Existen diferentes maneras de resolver un circuito eléctrico sin embargo debemos reconoer cual de los métodos aprendidos es el apropiado para obtener la solución del circuito.
-- Los polos magnéticos desiguales se atraen entre sí y los polos iguales se repelen.
-- Los materiales que pueden ser magnetizados se llaman ferromagnéticos.
-- Mientras más rápido es el movimiento relativo entre un conductor y un campo magnético, más grande
-es el voltaje inducido.
+- La forma de onda sinusoidal u onda seno es el tipo fundamental de corriente alterna y voltaje alterno.
+- En muchos circuitos se encontrarán tanto voltajes de cd como de ca combinados como lo es un circuito amplificador donde los voltajes de señal de ca se superponenen los voltajes de operación de cd.
+- Las ondas seno se miden a lo largo del eje horizontal con base en el tiempo.
+- La medición angular de una onda seno se basa en 360° o 2p para un ciclo completo.
+- El osciloscopio es un instrumento utilizado para observar y medir formas de onda.
+- La capacitancia total de una conexión en serie de capacitores es menor que la capacitancia individualde cualquiera de los capacitores.
+- Las capacitancias se suman cuando los capacitores están conectados en paralelo.
+- Un capacitor deja pasar la corriente alterna pero con cierta cantidad de oposición, llamada reactancia capacitiva
 
 #### 6. BIBLIOGRAFIA
 Floyd, T. L. (2007). Principios de Circuitos Eléctricos (8va Edición ed.). (L. Cruz Castillo, Ed.) México: Cámara Nacional de la Industria Editorial Mexicana.
