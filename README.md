@@ -20,6 +20,9 @@
 
 ![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/181384295-8dc90dda-700f-42a2-a005-ee1c2c9dd526.png)
 
+![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/181423527-647c2109-03bd-4ea8-a456-c016b3c53f24.png)
+
+
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 
 ### EJERCICIOS CAPITULO 11
